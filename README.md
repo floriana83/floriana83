@@ -1,12 +1,10 @@
-### Hi everyone!👋 I'm Floriana! 
+<h2 align="center"> Hi everyone!👋 I'm Floriana!</h2> 
+<div align="center"><img src="banner.png" alt="banner" align="center"> </div>
 
-### 💻 I am a Junior Front End Developer and a [Edgemony](https://edgemony.com/) bootcamper.
 
-<br>
-
-<p align="center">
+<h2 align="center"> 💻 I am a Junior Front End Developer and a <a href="https://edgemony.com/">Edgemony</a> bootcamper.</h2> 
+ <p align="center">
 <img src="https://komarev.com/ghpvc/?username=floriana83" alt="https://github.com/floriana83" /></p>
-<hr>
 
 <h2 align="center">Languages, tools and skills:</h2>
 
@@ -31,14 +29,14 @@
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<hr>
+
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/floriana-domianello"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<hr>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floriana83&show_icons=true&theme=tokyonight)](https://github.com/floriana83/github-readme-stats)
 
