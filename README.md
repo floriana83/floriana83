@@ -2,7 +2,7 @@
 <div align="center"><img src="banner.png" alt="banner" align="center"> </div>
 
 
-<h2 align="center"> 💻 I am a Junior Front End Developer and a <a href="https://edgemony.com/">Edgemony</a> bootcamper.</h2> 
+<h2 align="center"> 💻 I am a Front End Developer and a <a href="https://edgemony.com/">Edgemony</a> bootcamper.</h2> 
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=floriana83" alt="https://github.com/floriana83" /></p>
 
